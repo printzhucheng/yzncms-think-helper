@@ -1,5 +1,5 @@
 {
-    "name": "yzncms/think-helper",
+    "name": "printzhucheng/yzncms-think-helper",
     "description": "The ThinkPHP5 Helper Package",
     "license": "Apache-2.0",
     "authors": [
@@ -9,7 +9,7 @@
         }
     ],
     "support": {
-        "issues": "https://gitee.com/ken678/YZNCMS/issues"
+        "issues": "https://github.com/printzhucheng/yzncms-think-helper/issues"
     },
     "require": {
         "php": ">=7.0.0"
